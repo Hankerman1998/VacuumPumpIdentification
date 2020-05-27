@@ -8,4 +8,4 @@ The repo has a
 4) a test file with a pumpdown curve from a real pump
 
 Just copy the files to some folder, direct MATLAB overthere and run the main identification script.
-The program requires and optimization toolbox.
+The program requires an optimization toolbox.
